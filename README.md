@@ -1,6 +1,5 @@
-# DIO Trilha Java Básico
+# DIO Trilha Java Básico 
 
-## Desafio Propostos no Bootcamp Santander Backend com Java.
+## 📚 Desafios Propostos no Bootcamp Santander Backend com Java.
 
-### Conclusão do módulo Dominando a Linguagem Java.
-
+### 🎉Conclusão do módulo Dominando a Linguagem Java.
